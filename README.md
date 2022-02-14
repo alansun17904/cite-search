@@ -26,6 +26,26 @@ relevant ones.
 ## Interface and Functionality
 This section briefly demonstrates the interface and functionality of the platform. 
 
+**Home Page**
+![homepage](https://user-images.githubusercontent.com/37106254/153897773-80a1d8a6-70d4-4348-b6cf-1034f54e3e8f.png)
+
+**Cite Search Picture**
+![search-pic](https://user-images.githubusercontent.com/37106254/153897811-b6d0a1d2-1e36-4f92-9f43-1ee6beceaa5a.png)
+
+**Cite Search Video**
+
+
+https://user-images.githubusercontent.com/37106254/153898161-32d72023-a4a8-4c90-9edf-128924304d23.mov
+
+
+
+
+
+
+
+
+
+
 
 ## Installation
 Cite search is built with Django and D3.js, it also uses the OpenCitations API to get papers of interest. To start 
