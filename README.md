@@ -9,7 +9,7 @@ as well as the parts that I struggled with.
 
 **Highlights**
 - I implemented a breadth-first search that would traverse the citation graph.  
-- Since any given paper may have up $50^5$ citations, I had to limit the number of citations per layer. The web application
+- Since any given paper may have up 50^5 citations, I had to limit the number of citations per layer. The web application
 would also be making tons of API calls for any given paper. Therefore, I implemented a multi-threaded program that would
 get sources quickly and efficiently. 
 - This was my first time working with D3.js, I've seen it being used in Distill articles and the potential that it offers. 
