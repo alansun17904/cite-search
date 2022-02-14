@@ -88,6 +88,7 @@ class GraphView(TemplateView):
                 thread.join()
             _ = [layers.append(v) for v in nodes]
             citations = cited.copy()
+            citations.sort(key=lambda x: x['timespan'])
             cited = []
             nodes = []
             
